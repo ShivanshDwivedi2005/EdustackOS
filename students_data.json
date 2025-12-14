@@ -1,0 +1,84 @@
+{
+  "students": [
+    {
+      "name": "Aman Verma",
+      "bt_id": "BT2021001",
+      "branch": "Computer Science",
+      "year": 3,
+      "cgpa": 8.4,
+      "backlogs": 0
+    },
+    {
+      "name": "Priya Singh",
+      "bt_id": "BT2021002",
+      "branch": "Information Technology",
+      "year": 3,
+      "cgpa": 7.9,
+      "backlogs": 1
+    },
+    {
+      "name": "Rohit Kumar",
+      "bt_id": "BT2021003",
+      "branch": "Mechanical Engineering",
+      "year": 4,
+      "cgpa": 7.2,
+      "backlogs": 0
+    },
+    {
+      "name": "Neha Gupta",
+      "bt_id": "BT2022001",
+      "branch": "Electronics",
+      "year": 2,
+      "cgpa": 8.1,
+      "backlogs": 0
+    },
+    {
+      "name": "Arjun Patel",
+      "bt_id": "BT2020004",
+      "branch": "Civil Engineering",
+      "year": 4,
+      "cgpa": 6.8,
+      "backlogs": 2
+    },
+    {
+      "name": "Sneha Mishra",
+      "bt_id": "BT2022003",
+      "branch": "Computer Science",
+      "year": 2,
+      "cgpa": 9.0,
+      "backlogs": 0
+    },
+    {
+      "name": "Vikas Yadav",
+      "bt_id": "BT2021007",
+      "branch": "Electrical Engineering",
+      "year": 3,
+      "cgpa": 7.5,
+      "backlogs": 1
+    },
+    {
+      "name": "Pooja Sharma",
+      "bt_id": "BT2020009",
+      "branch": "Information Technology",
+      "year": 4,
+      "cgpa": 8.7,
+      "backlogs": 0
+    },
+    {
+      "name": "Kunal Saxena",
+      "bt_id": "BT2022006",
+      "branch": "Mechanical Engineering",
+      "year": 2,
+      "cgpa": 6.9,
+      "backlogs": 3
+    },
+    {
+      "name": "Anjali Rai",
+      "bt_id": "BT2021010",
+      "branch": "Electronics",
+      "year": 3,
+      "cgpa": 8.0,
+      "backlogs": 0
+    }
+  ]
+}
